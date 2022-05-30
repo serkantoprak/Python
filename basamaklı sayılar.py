@@ -12,3 +12,4 @@ while sayi < 10000000000000000000000:
     toplam=0
 print(f"rakamlar toplamı 99 olan, {len(liste)}adet, 22 basamaklı sayı vardır")
 print(liste)
+print("hello world")
