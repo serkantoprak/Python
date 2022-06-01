@@ -21,6 +21,7 @@ letters.sort()
 numbers.reverse() #elemanları tersten sıralar
 letters.reverse()
 # numbers.clear() #tüm elemanları temizler
+tuple = (1,'iki',3) #listeye benzer ancak tuple (atama işlemi yapılamaz)
 
 print(numbers)
 print(letters)
